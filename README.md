@@ -2,7 +2,7 @@
 - 👀 I'm interested in to be full-stack developer.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me my Instagram 'abdeljalil47'.
+- 📫 How to reach me my Instagram 'its_abdeljalil47'.
 
 <!---
 abdeljalil47/abdeljalil47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
