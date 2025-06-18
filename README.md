@@ -56,4 +56,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdsebba&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdsebba&layout=compact&theme=dark)
 
+---
+![Visitor Count](https://visitcount.itsvg.in/api?id=abdsebba&label=Profile%20Views&color=6&icon=5&pretty=true)
