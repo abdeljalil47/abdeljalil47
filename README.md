@@ -18,7 +18,11 @@
 
 <div align="left">
   <h3>🏆 42 Stats</h3>
-  <br><br><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/abdsebba" alt="abdsebba's 42 stats" /></a>
+<div style="text-align: center;">
+    <a href="https://github.com/oakoudad/badge42">
+        <img src="https://badge.mediaplus.ma/darkblue/abdsebba" alt="abdsebba's 42 stats" style="width: 300px; height: auto;" />
+    </a>
+</div>
 </div>
 
 ## 🌐 Socials
